@@ -30,7 +30,7 @@ We developed an intuitively simple programming model for integrating reinforceme
 
 #### Transfer Learning and Its Application to Learning to Play American Football (DARPA)
 
-We were the first stage of the transfer learning task. Our task was to automatically track players in raw footage and label those tracks with durative semantic labels. The result was the first end-to-end system capable of observing raw video and learning high-level concepts and was featured in AI Magazine. (*With Alan Fern and Rob Hess*)
+We were the first stage of this large effort. Our task was to automatically track players in raw footage and label those tracks with durative semantic labels. The result was the first end-to-end system that learned to play the game by observing raw video. (*With Alan Fern and Rob Hess*)
 
 ---
 
