@@ -72,7 +72,7 @@ Alex Groce, Alan Fern, Martin Erwig, Jervis Pinto, Tim Bauer and Mohammad Amin A
 
 ---
 
-Alex Groce, Alan Fern, Jervis Pinto, Tim Bauer, Amin Alipour, Martin Erwig and Camden Lopez. **Lighweight Automated Testing with Adaptation-based Programming.** *In the Proceedings of the 23rd IEEE International Symposium on Software Reliability Engineering* (ISSRE), 2012. [PDF]({{site.url}}/assets/groce2012lightweight.pdf)
+Alex Groce, Alan Fern, Jervis Pinto, Tim Bauer, Amin Alipour, Martin Erwig and Camden Lopez. **Lightweight Automated Testing with Adaptation-based Programming.** *In the Proceedings of the 23rd IEEE International Symposium on Software Reliability Engineering* (ISSRE), 2012. [PDF]({{site.url}}/assets/groce2012lightweight.pdf)
 
 ---
 
