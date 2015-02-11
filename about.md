@@ -22,7 +22,7 @@ In large decision problems, even sophisticated search algorithms will often perf
 
 #### Improving automated testing with search and learning (NSF)
 
-Can ML be used to improve automated software testing? In this project, we design algorithms for improving the runtime/coverage profile of automated test harnesses. Towards that end, we are developing a a domain-specific language [TSTL](https://code.google.com/p/harness-maker/source/checkout) for compiling test harnesses in Python. TSTL allows a developer to quickly generate test harnesses for Python code. See our [paper]({{site.url}}/assets/groce2015little.pdf) at NFM15 for an introduction to TSTL. (*With Alan Fern and Alex Groce*)
+Can ML be used to improve automated software testing? In this project, we design algorithms for improving the runtime/coverage profile of automated test harnesses. Towards that end, we are developing a a domain-specific template scripting testing language [TSTL](https://code.google.com/p/harness-maker/source/checkout). TSTL allows a developer to succintly define a test space or harness using a very high-level DSL. See our [paper]({{site.url}}/assets/groce2015little.pdf) at NFM15 for an introduction to TSTL. (*With Alan Fern and Alex Groce*)
 
 #### Adaptation-based programming (NSF)
 
