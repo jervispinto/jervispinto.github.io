@@ -49,11 +49,11 @@ I spent the summer of 2012 in San Diego at a financial-services startup on a cha
 ### Education
 
 **PhD, Machine Learning, Computer Science**
-School of EECS, Oregon State University, Corvallis, OR, USA
+Oregon State University
 Fall 2007 - Spring 2015 [expected]
 
 **BE, Computer Engineering**
-Mumbai University, Mumbai, India
+Mumbai University
 2003 - 2007
 
 ---
