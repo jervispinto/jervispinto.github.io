@@ -1,0 +1,24 @@
+# Site settings
+title:            'Imitated Learnings'
+description:      'At the Intersection of Machine Learning and Software Engineering'
+baseurl:          ''
+url:              ''
+
+author:
+  name:           'Jervis Pinto'
+  email:          jervis.pinto@gmail.com
+
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+permalink:        pretty
+
+kramdown:
+  input: GFM
+
+
+paginate:         5
+
+# Custom vars
+github:
+  repo:           https://github.com/jervispinto
