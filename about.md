@@ -6,9 +6,9 @@ permalink: /about/
 
 ## Jervis Pinto
 
-My primary interests are artificial intelligence, machine learning and its applications in developing beneficial adaptive, self-optimizing software. My research projects typically occur at the intersection of machine learning, sequential decision making and software engineering.
+My primary interests are artificial intelligence, machine learning and its applications in developing beneficial, adaptive, self-optimizing software. My research projects typically occur at the intersection of machine learning, sequential decision making and software engineering.
 
-I'm very fortunate to have worked with experts in machine learning as well as software engineering. My thesis advisor is [Prof. Alan Fern](http://web.engr.oregonstate.edu/~afern/) and we collaborate frequently with [Prof. Alex Groce](http://web.engr.oregonstate.edu/~alex/).
+I'm very grateful for the opportunity to work with experts in machine learning as well as software engineering. My thesis advisor is [Prof. Alan Fern](http://web.engr.oregonstate.edu/~afern/) and we collaborate frequently with [Prof. Alex Groce](http://web.engr.oregonstate.edu/~alex/).
 
 The best way to contact me is via email: *jervis.pinto@gmail.com*
 
@@ -18,7 +18,7 @@ The best way to contact me is via email: *jervis.pinto@gmail.com*
 
 #### Improving search performance in large MDP's (NSF)
 
-In large decision problems (e.g., hundreds of choices), even sophisticated search algorithms will often perform poorly. In this project, we design algorithms which learn control knowledge from past planning experience in the form of partial policies. We develop new imitation learning algorithms and give their regret bounds. The partial policies are then used to prune actions in large MDP's during tree search which results in significantly better anytime decision making. See our [paper]({{site.url}}/assets/pinto2014learning.pdf) at UAI14. (*With Alan Fern*)
+In large decision problems, even sophisticated search algorithms will often perform poorly. In this project, we design algorithms that learn control knowledge from past planning experience in the form of partial policies. We develop new imitation learning algorithms for learning partial policies and analyze their regret bounds. The partial policies are used to prune actions in large MDP's during tree search which results in significantly better decision making in less time. See our [paper]({{site.url}}/assets/pinto2014learning.pdf) at UAI14. (*With Alan Fern*)
 
 #### Improving automated testing with search and learning (NSF)
 
